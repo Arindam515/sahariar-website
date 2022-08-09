@@ -1,0 +1,57 @@
+.name-highlight{
+    color: orangered;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    color: dimgray;
+}
+body{
+    font-family: 'Mochiy Pop One', sans-serif;
+font-family: 'Uchen', serif;
+
+}
+.half-width{
+    width: 40%;
+    padding-left: 5%;
+    float: left;
+    margin-left: 5%;
+}
+.link-button{
+    text-decoration: none;
+    color: beige;
+    background-color: navy;
+    border-radius: 7px;
+    padding: 5px 10px;
+    font-weight: 700;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.center{
+   
+    text-align: center;
+}
+
+    .top-banner{
+        background-image:url("images/header-bg.png");
+        background-repeat: no-repeat;
+    }
+    .biography{
+        background: url("images/biography-bg.png");
+        background-repeat: no-repeat;
+        background-position: right;
+    }
+    .latest-work{
+        background-image:url("images/latest-work-bg.png");
+        background-repeat: no-repeat;
+    }
+    footer p{
+        text-align: center;
+        font-size: 25px;
+        }
